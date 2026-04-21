@@ -63,7 +63,7 @@ I'm a Frontend Developer specializing in **React**, **Next.js**, and **TypeScrip
 
 <div align="center">
 
-![Maged's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagedKaram&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MagedKaram&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MagedKaram&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
